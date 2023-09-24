@@ -14,8 +14,7 @@ This document is not light to read, as the complexity of the experience is beyon
 
 ### Introduction
  - [The realm of the unconcious](/introduction/realm.md)
- - [The mechanism of sleep](/introduction/sleep.md) TODO
- - [The sleep agent](/introduction/sleepagent.md) TODO
+ - [The sleep agent](/introduction/sleepagent.md)
  - [The speaking/perceiving agent](/introduction/speak-perceive.md) TODO
  - [More Agents](/introduction/agents.md) TODO
  - [Resources of the unconcious](/introduction/resources.md) TODO
